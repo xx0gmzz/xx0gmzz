@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @xx0gmzz
-- I am a System Administrator and a linux lover.
+- I am a System Administrator specialized in cloud. I participate in numerous deployments of monitoring systems with terraform and other technologies.
 - UPDATING ....
